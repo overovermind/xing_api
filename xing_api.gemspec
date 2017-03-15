@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/xing/xing_api'
   s.licenses    = ['MIT']
 
-  s.add_dependency 'oauth', '~>0.4.7'
+  s.add_dependency 'oauth', '>=0.4.7'
   s.add_development_dependency 'mocha'
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'rake'
